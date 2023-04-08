@@ -1,4 +1,4 @@
-## Oie! Eu sou a Camila Oliveira 👋
+## Oie! Eu sou a Camila Oliveira 👩🏼‍💻
 
 -🔭 Estou em busca de um estágio
 -📚 Primeiro semestre "Ciência de dados", pela Estácio
